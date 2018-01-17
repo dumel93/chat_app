@@ -1,0 +1,14 @@
+body{
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRht6Ka835EM7A6X73iEw22efLhGQnFPpyghELkN6rJvYKGf9VnZA");
+}
+
+div.post {
+
+    background-color: whitesmoke;
+    border: #003366 solid 2px;
+    height: 100px;
+    width: 350px;
+    margin: 10px;
+    text-align: left;
+}
